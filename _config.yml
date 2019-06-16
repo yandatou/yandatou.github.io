@@ -236,3 +236,5 @@ gitalk:
     clientSecret: 595d00d524feb46e6d479595bbb264bea60be3b8
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
+
+theme: jekyll-theme-cayman
